@@ -1,4 +1,4 @@
-"""Genera el Excel de ejemplo con datos ficticios de "Farmacia Santa Rita".
+"""Genera el Excel de ejemplo con datos ficticios de "Farmacia Brisas del Golfo".
 
 Uso: python generar_datos.py
 

@@ -1,4 +1,4 @@
-"""Dashboard de ventas de ejemplo para "Farmacia Santa Rita".
+"""Dashboard de ventas de ejemplo para "Farmacia Brisas del Golfo".
 
 Uso: streamlit run app.py
 """
@@ -530,9 +530,9 @@ def mostrar_pie(es_demo):
 
 
 def main():
-    st.set_page_config(page_title="Dashboard de Ventas · Farmacia Santa Rita", page_icon="📊", layout="wide")
+    st.set_page_config(page_title="Dashboard de Ventas · Farmacia Brisas del Golfo", page_icon="📊", layout="wide")
     aplicar_css()
-    st.title("Dashboard de Ventas · Farmacia Santa Rita")
+    st.title("Dashboard de Ventas · Farmacia Brisas del Golfo")
 
     contenido, nombre, es_demo = elegir_origen()
     try:

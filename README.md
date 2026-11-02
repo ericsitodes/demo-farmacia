@@ -1,4 +1,4 @@
-# Dashboard de Ventas · Farmacia Santa Rita
+# Dashboard de Ventas · Farmacia Brisas del Golfo
 
 Demo de Eleva Dev: un tablero de ventas para farmacia hecho con Python, pandas, Plotly y Streamlit. **Todos los datos son ficticios.**
 
